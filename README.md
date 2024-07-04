@@ -1,4 +1,4 @@
-# Setting Up AWS EC2 Instance and Deploying a Website with NGINX
+# Setting Up AWS EC2 Instance and Deploying a Website with NGINX, with output screenshot of each file ie Html, CSS, and Javascript. 
 
 This guide outlines the steps to set up an AWS EC2 instance and deploy a website using NGINX.
 
